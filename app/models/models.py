@@ -6,3 +6,8 @@ class Product(BaseModel):
     name: str
     category: str
     price: float
+
+
+class UserAuth(BaseModel):
+    username: str
+    password: str
