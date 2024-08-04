@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "fast-api-practik"
+name = "app"
 version = "0.1.0"
 description = ""
 authors = ["Arsen Grigoryan"]

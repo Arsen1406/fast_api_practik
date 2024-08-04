@@ -8,6 +8,6 @@ class Product(BaseModel):
     price: float
 
 
-class UserAuth(BaseModel):
+class User(BaseModel):
     username: str
     password: str
